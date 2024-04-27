@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "fb3a3088fe0e999583313f064c4667dd",
+    "content-hash": "9c2ecb99f4c692625a4a6886abb50f3a",
     "packages": [
         {
             "name": "aws/aws-crt-php",
@@ -5772,45 +5772,6 @@
             "time": "2024-03-19T11:57:22+00:00"
         },
         {
-            "name": "tech-ed/extended-file-uploads",
-            "version": "dev-main",
-            "dist": {
-                "type": "path",
-                "url": "packages/tech-ed/extended-file-uploads",
-                "reference": "28c1a9d628efffc5020405ec715c66b697c772a1"
-            },
-            "require": {
-                "laravel/framework": "^11.0",
-                "php": "^8.2"
-            },
-            "type": "library",
-            "extra": {
-                "laravel": {
-                    "aliases": {
-                        "ExtendedFileUploads": "TechEd\\ExtendedFileUploads"
-                    }
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "TechEd\\ExtendedFileUploads\\": "src/"
-                }
-            },
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Edmon Belchev",
-                    "email": "edmon.cekov@gmail.com"
-                }
-            ],
-            "description": "A simple and lightweight Livewire package extending the WithFuleUploads trait of Livewire, giving us the ability to upload multiple files to S3.",
-            "transport-options": {
-                "relative": true
-            }
-        },
-        {
             "name": "tijsverkoyen/css-to-inline-styles",
             "version": "v2.2.7",
             "source": {
@@ -8529,9 +8490,7 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "tech-ed/extended-file-uploads": 20
-    },
+    "stability-flags": [],
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
