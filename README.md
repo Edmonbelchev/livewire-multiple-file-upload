@@ -1,6 +1,6 @@
 # Livewire File Upload Test
 
-This repository contains a simple setup to test file uploads using Livewire in Laravel. Follow the instructions below to get started.
+This repository contains a simple setup to test multiple file uploads to S3 bucket using Livewire in Laravel. Follow the instructions below to get started.
 
 ## Prerequisites
 
