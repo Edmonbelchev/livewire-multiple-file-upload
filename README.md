@@ -2,6 +2,8 @@
 
 This repository contains a simple setup to test multiple file uploads to S3 bucket using Livewire in Laravel. Follow the instructions below to get started.
 
+![Multiple File Upload GIF](https://raw.githubusercontent.com/Edmonbelchev/livewire-multiple-file-upload/main/multiple_file_uploads.gif)
+
 ## Prerequisites
 
 - PHP installed on your machine (version 7.4 or later recommended)
