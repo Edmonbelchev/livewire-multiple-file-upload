@@ -40,3 +40,10 @@ php artisan serve
 ```
 
 For more detailed information you can read the article I wrote on how to implement multiple file upload to S3 bucket in Livewire here: [LinkedIn Article](https://www.linkedin.com/pulse/implementing-multiple-file-upload-s3-bucket-edmon-belchev-4oagf/).
+
+## Support the Developer
+If SimplOtp has been helpful to you and you'd like to support its development, consider buying the developer a cup of coffee! ☕
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/edmonbelchev)
+
+Your support is greatly appreciated and helps in maintaining and improving SimplOtp for the Laravel community.
