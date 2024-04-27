@@ -6,7 +6,6 @@
 
 <script>
     document.addEventListener('livewire:load', function() {
-        console.log('test')
         const component = Livewire.find(@this.__instance.id);
         const fileInput = document.querySelector(`input[name="${@json($inputName)}"]`);
         const filesArray = []
